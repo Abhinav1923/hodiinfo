@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hodiinfo/static/css/main.698740a6.chunk.css",
+    "main.js": "/hodiinfo/static/js/main.46bfd869.chunk.js",
+    "main.js.map": "/hodiinfo/static/js/main.46bfd869.chunk.js.map",
+    "runtime-main.js": "/hodiinfo/static/js/runtime-main.f92850fc.js",
+    "runtime-main.js.map": "/hodiinfo/static/js/runtime-main.f92850fc.js.map",
+    "static/css/2.570bf022.chunk.css": "/hodiinfo/static/css/2.570bf022.chunk.css",
+    "static/js/2.2229487e.chunk.js": "/hodiinfo/static/js/2.2229487e.chunk.js",
+    "static/js/2.2229487e.chunk.js.map": "/hodiinfo/static/js/2.2229487e.chunk.js.map",
+    "index.html": "/hodiinfo/index.html",
+    "static/css/2.570bf022.chunk.css.map": "/hodiinfo/static/css/2.570bf022.chunk.css.map",
+    "static/css/main.698740a6.chunk.css.map": "/hodiinfo/static/css/main.698740a6.chunk.css.map",
+    "static/js/2.2229487e.chunk.js.LICENSE.txt": "/hodiinfo/static/js/2.2229487e.chunk.js.LICENSE.txt",
+    "static/media/BannerFTXNews.d0cd974b.55699dca.png": "/hodiinfo/static/media/BannerFTXNews.d0cd974b.55699dca.png",
+    "static/media/HODLINFO.8f78fc06.ea678db9.png": "/hodiinfo/static/media/HODLINFO.8f78fc06.ea678db9.png",
+    "static/media/Zebpay.8e6bd21b.png": "/hodiinfo/static/media/Zebpay.8e6bd21b.png",
+    "static/media/bitbns.dcee6cf4.82d408ba.png": "/hodiinfo/static/media/bitbns.dcee6cf4.82d408ba.png",
+    "static/media/cryptonews.54869ee3.6e4a62e6.png": "/hodiinfo/static/media/cryptonews.54869ee3.6e4a62e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f92850fc.js",
+    "static/css/2.570bf022.chunk.css",
+    "static/js/2.2229487e.chunk.js",
+    "static/css/main.698740a6.chunk.css",
+    "static/js/main.46bfd869.chunk.js"
+  ]
+}
